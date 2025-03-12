@@ -1,0 +1,28 @@
+{
+  "buildCommand": "echo 1",
+  "a": 1,
+  "headers": [
+    {
+      "source": "1",
+      "headers": [
+        {
+          "key": "1",
+          "value": "sssaaaa"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "ssssss/:asdfas/*.g",
+      "statusCode": 302,
+      "destination": "http://ssssss/:asdfas/:aa:aa.jpg"
+    }
+  ],
+  "caches": [
+    {
+      "source": "ssssss/:asdfas/*.g",
+      "cacheTtl": "asdf"
+    }
+  ]
+}
