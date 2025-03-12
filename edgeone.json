@@ -1,5 +1,5 @@
 {
-  "buildCommand": "echo 1",
+  "buildCommand": "npm run build",
   "a": 1,
   "headers": [
     {
